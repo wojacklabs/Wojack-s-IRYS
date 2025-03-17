@@ -1,0 +1,6 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="20" fill="#0070F3"/>
+  <path d="M50 100L80 70L110 100L80 130L50 100Z" fill="white"/>
+  <path d="M90 100L120 70L150 100L120 130L90 100Z" fill="white" opacity="0.7"/>
+  <text x="100" y="160" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">IRYS</text>
+</svg>

@@ -38,3 +38,12 @@ pre {
 code {
   font-family: 'Menlo', 'Monaco', 'Consolas', 'Liberation Mono', 'Courier New', monospace;
 }
+
+aside + nav {
+  display: none !important;
+}
+
+img {
+  display: inline-block !important;
+  vertical-align: middle !important;
+}

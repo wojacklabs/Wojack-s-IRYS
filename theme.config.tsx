@@ -2,16 +2,9 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Docs</span>,
-  project: {
-    link: 'https://github.com/your-username/your-repo',
-  },
-  chat: {
-    link: 'https://discord.com',
-  },
-  docsRepositoryBase: 'https://github.com/your-username/your-repo',
+  logo: <span>Wojack's IRYS</span>,
   footer: {
-    text: 'My Documentation Site',
+    text: 'End',
   },
   useNextSeoProps() {
     return {
